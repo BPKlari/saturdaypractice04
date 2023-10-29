@@ -1,6 +1,5 @@
-"saturdaypractice04"
 ####Boldog 'szombatot!'
-Új **vicces ** bejgyzés!
+Új **vicces** bejgyzés!
 
 -vicc1
 -vicc 2
