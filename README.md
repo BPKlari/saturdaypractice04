@@ -11,3 +11,5 @@
 | ---------------:|:-----|
 | Alap-havi 1 vicc | *ingyenes* |
 | Prémium | *500 USD* |
+
+![Hurrá működik˘] 
