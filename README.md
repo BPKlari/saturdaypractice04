@@ -1,9 +1,9 @@
 #### Boldog 'szombatot!'
-Új **vicces** bejgyzés!
+Új **vicces** bejegyzés!
 
-- vicc1
-- vicc2
-- vicc3
+- vicc 1
+- vicc 2
+- vicc 3
 
 [További viccekhez kattints ide!](hhps.//www.google.com)
 
