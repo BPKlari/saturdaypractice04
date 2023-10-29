@@ -5,8 +5,9 @@
 - vicc2
 - vicc3
 
-[További viccekhez kattints ide!](hhps.//....)
+[További viccekhez kattints ide!](hhps.//www.google.com)
 
-|Vicc előfizetés|Ára|
-|Alap-havi 1 vicc|ingyenes|
-|Prémium|500 USD|
+| Vicc előfizetés | Ára |
+| ---------------:|:-----|
+| Alap-havi 1 vicc | *ingyenes* |
+| Prémium | *500 USD* |
