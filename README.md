@@ -27,7 +27,7 @@ organizáció alá. Neve legyen az alábbi, ékezetek nélkül, végig kisbetűv
 <li>**Formázd** meg a README.md fájlt, hogy hasonlítson ezen dokumentumra. Elég ha címsorokat, felsorolást, linket és dőlt/félkövér elemeket használsz. [segítség.](https://www.markdownguide.org/cheat-sheet/)**(1 pont)**</li>
 <li>Készíts egy új branch-et **modulzaro** néven és állj át/válts át rá. Innestől kezdve dolgozz ezen a branch-en. **2 pont**</li>
 <li>Készíts el egy mappát **webpages** néven, melybe szintén készíts el egy resources mappát **(1 pont)**</li>
-<li>Készíts egy weboldalt *(progmaticContact.html)*, amely az alábbi kapcsolatfelvételi űrlaphoz hasonlít. A “Kapcsolat” és “Küldj üzenetet!” szekció nyugodtan helyezkedhet el egymás alatt is. Illetve a szimbólumok és mezők külalakja eltérhet a képen lévőtől, nem kell egyezzen, de felismerhetően hasonlítson ![smiley](https://upload.wikimedia.org/wikipediacommons/thumb/8/80/Smiley.png/150px-Smiley.png)
+<li>Készíts egy weboldalt *(progmaticContact.html)*, amely az alábbi kapcsolatfelvételi űrlaphoz hasonlít. A “Kapcsolat” és “Küldj üzenetet!” szekció nyugodtan helyezkedhet el egymás alatt is. Illetve a szimbólumok és mezők külalakja eltérhet a képen lévőtől, nem kell egyezzen, de felismerhetően hasonlítson !(https://upload.wikimedia.org/wikipediacommons/thumb/8/80/Smiley.png/150px-Smiley.png)
       <ol>
 		<li>Hozd létre a fenti fájl **(1 pont)**</li>
 		<li>Szerepeljenek benne az alábbi elemek 
