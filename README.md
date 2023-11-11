@@ -59,12 +59,14 @@ organizáció alá. Neve legyen az alábbi, ékezetek nélkül, végig kisbetűv
 	</ol>		
 </li>
 <li>Tegyük fel, hogy a fejlesztési vezető kitalálta, hogy a weboldal jelenlegi struktúráján még lehetne javítani, és készüljön egy kezdőlap (*index.html*), ahol egy üdvözlőszöveg és egy gomb található. A gombra való kattintásra átnavigál a weboldal a progmaticContact.html oldalra.
-	<ol> 
-		<li>index.html néven a kezdőlap létrehozása **(0.5 pont)**</li>
-		<li>szerepel egy h1-es tag-ek között  lévő  “Üdvözlünk a Progmatic-nál” szöveg és egy gomb “Kapcsolatfelvétel” felirattal **(0.5 pont)**</li>
-		<li>tetszőleges háttérkép alkalmazása **(0.5 pont)**</li>
-		<li>navigálás működik a gombra kattintva  **(0.5 pont)**</li>
-	</ol>
+<ol> 
+<li>index.html néven a kezdőlap létrehozása **(0.5 pont)**</li>
+<li>szerepel egy h1-es tag-ek között  lévő  “Üdvözlünk a Progmatic-nál” szöveg és egy gomb “Kapcsolatfelvétel” felirattal **(0.5 pont)**</li>
+<li>tetszőleges háttérkép alkalmazása **(0.5 pont)**</li>
+<li>navigálás működik a gombra kattintva  **(0.5 pont)**</li>
+</ol>
+
+
 </li>
 <li>A webalkalmazás minden oldalán szerepel a Progmatic logo-ja, mely kattintható és kattintás hatására a kezdőlap, az index.html töltődik be.**(1 pont)**</li>
 <li>Töltsd fel a branch-edre a munkádat és ellenőrizd le a github.com felületen, hogy látod-e. **(2 pont)**</li>
