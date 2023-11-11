@@ -12,13 +12,13 @@
 | Alap-havi 1 vicc | *ingyenes* |
 | Prémium | *500 USD* |
 
-## 1. modul
+### 1. modul
 Introduction to Basics
-#### Beadandó gyakorlat 
+# Beadandó gyakorlat
 Command line, web basics, sdlc, istqb-ctfl, git
-### Előszó
+## Előszó
 A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz bármilyen segédanyagot használhatsz. A beadandó összesen 30 pontos, a részfeladatokat rész pontozzuk, így nem probléma ha esetleg valamelyik részfeladatot kihagyod mert nem tudod, nyugodtan menj tovább. A feladat lista végén van egy extra feladat, melynek elkészítése opcionális.
-### Feladatok
+## Feladatok
 
 <ol>
 <li>Készíts egy private repositoryt a [githublink](https://github.com/progmatictesztautomation23h2) organizáció alá. Neve legyen az alábbi, ékezetek nélkül, végig kisbetűvel: vezeteknev_keresztnev-modulzaro  (2 pont)</li>
@@ -71,10 +71,4 @@ A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz b�
 </li>
 
  
-
-
-
-
-
-
 
