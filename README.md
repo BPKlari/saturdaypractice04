@@ -34,7 +34,7 @@ organizáció alá. Neve legyen az alábbi, ékezetek nélkül, végig kisbetűv
 		<li>Hozd létre a fenti fájl **(1 pont)**</li>
 		<li>Szerepeljenek benne az alábbi elemek 
 			<ol/>
-				<li><h1>...<h6> tag-ek valamelyike legalább egyszer **(1 pont)**</li>
+				<li>'<h1>'...'<h6>' tag-ek valamelyike legalább egyszer **(1 pont)**</li>
 				<li><p> tag legalább egyszer (1 pont)</li>
 				<li><strong> tag vagy css segítségébel félkövérített tartalom **(1 pont)**</li>
 				<li><input type=”text”> vagy addott igénynek megfelelő beviteli mezők legalább 3-szor **(1 pont)**</li>
