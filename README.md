@@ -14,7 +14,7 @@
 
 ## 1. modul
 Introduction to Basics
-#### Beadandó gyakorlat
+#### Beadandó gyakorlat 
 Command line, web basics, sdlc, istqb-ctfl, git
 ### Előszó
 A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz bármilyen segédanyagot használhatsz. A beadandó összesen 30 pontos, a részfeladatokat rész pontozzuk, így nem probléma ha esetleg valamelyik részfeladatot kihagyod mert nem tudod, nyugodtan menj tovább. A feladat lista végén van egy extra feladat, melynek elkészítése opcionális.
