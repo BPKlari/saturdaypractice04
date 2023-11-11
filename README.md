@@ -22,7 +22,7 @@ A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz b�
 
 <ol>
 <li>Készíts egy private repositoryt a [githublink](https://github.com/progmatictesztautomation23h2) organizáció alá. Neve legyen az alábbi, ékezetek nélkül, végig kisbetűvel: *vezeteknev_keresztnev-modulzaro*  **(2 pont)**</li>
-<li>Dolgozz a**main**branch-re. Készíts el egy **README.md** fájt, melybe bemásolod ezt a dokumentumot, mely a feladatkiírást tartalmazza *a beillesztett kép nélkül)*. **(1 pont)**</li>
+<li>Dolgozz a __main__ branch-re. Készíts el egy **README.md** fájt, melybe bemásolod ezt a dokumentumot, mely a feladatkiírást tartalmazza *a beillesztett kép nélkül)*. **(1 pont)**</li>
 <li>**Formázd** meg a README.md fájlt, hogy hasonlítson ezen dokumentumra. Elég ha címsorokat, felsorolást, linket és dőlt/félkövér elemeket használsz. [segítség.](https://www.markdownguide.org/cheat-sheet/)**(1 pont)**</li>
 <li>Készíts egy új branch-et **modulzaro** néven és állj át/válts át rá. Innestől kezdve dolgozz ezen a branch-en. **2 pont**</li>
 <li>Készíts el egy mappát **webpages** néven, melybe szintén készíts el egy resources mappát **(1 pont)**</li>
