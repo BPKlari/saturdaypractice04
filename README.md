@@ -20,6 +20,8 @@ Command line, web basics, sdlc, istqb-ctfl, git
 A feladat megoldására az egész délutánt igénybe veheted, a megoldáshoz bármilyen segédanyagot használhatsz. A beadandó összesen 30 pontos, a részfeladatokat rész pontozzuk, így nem probléma ha esetleg valamelyik részfeladatot kihagyod mert nem tudod, nyugodtan menj tovább. A feladat lista végén van egy extra feladat, melynek elkészítése opcionális.
 ## Feladatok
 
+Készíts egy private repositoryt a [](https://github.com/progmatictesztautomation23h2) organizáció alá. Neve legyen az alábbi, ékezetek nélkül, végig kisbetűvel: vezeteknev_keresztnev-modulzaro  **2 pont**
+
 <ol>
 <li>
 Készíts egy private repositoryt a [](https://github.com/progmatictesztautomation23h2) organizáció alá. Neve legyen az alábbi, ékezetek nélkül, végig kisbetűvel: vezeteknev_keresztnev-modulzaro  **2 pont**
